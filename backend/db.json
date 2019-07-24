@@ -1,0 +1,11 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Renan Marques",
+        "email": "renan@renan.com"
+    }, {
+        "id": 2,
+        "name": "Tamires Freitas",
+        "email": "tamires@renan.com"
+    }]
+}
